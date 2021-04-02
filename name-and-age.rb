@@ -1,9 +1,9 @@
 # Recebendo dados
-print "Por gentileza, informe seu nome completo: "
+print "Please provide your full name: "
 # Guardando dados
 Fullname= gets.chomp
 
-print "Por gentileza, informe sua idade: "
+print "Please enter your age: "
 Age = gets.chomp
 
-puts "seu nome é #{Fullname} e você possui #{Age} anos."
+puts "Your name is #{Fullname} and you are #{Age} years old."

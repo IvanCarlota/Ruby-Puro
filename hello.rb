@@ -1,11 +1,11 @@
 # saída de dados
-print 'Digite seu nome: '
+print 'Type your name: '
 
 # Recebendo uma entrada do teclado
 name = gets.chomp
 
 # saída de dados
-print 'Digite seu sobrenome: '
+print 'Enter your last name: '
 
 # Recebendo uma entrada do teclado
 surname = gets.chomp
