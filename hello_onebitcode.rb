@@ -1,1 +1,1 @@
-puts "Curso de ruby do OneBitCode"
+puts "Hello, OneBitCode!"
